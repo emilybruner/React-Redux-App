@@ -1,0 +1,42 @@
+body {
+    background-image: url('http://getwallpapers.com/wallpaper/full/2/6/2/1154574-kanye-west-hd-wallpaper-power-2560x1440-for-tablet.jpg#.XfLJ4CWiMQQ.link');
+    background-size: cover;
+    font-family: 'Anton', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+    
+h1{
+        background-color: rgb(199, 125, 125);
+        opacity: .7;
+        width: 35%;
+        border-radius: 5px;
+        font-size: 3rem;
+        margin-bottom: 0px;
+        
+        
+}
+
+.quote {
+    background-color: rgb(199, 125, 125);
+    padding: 30px;
+    margin: 1%;
+    border-radius: 5px;
+    max-width: 30%;
+    font-size: 1.6rem;
+    opacity: .7;
+}
+
+button {
+    font-family: 'Anton', sans-serif;
+    font-size: 1.3rem;
+    width: 10%;
+    height: 50px;
+    background-color: black;
+    color: rgb(199, 125, 125);
+}
