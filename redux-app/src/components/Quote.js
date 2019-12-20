@@ -17,7 +17,7 @@ const Quote = props => {
             {props.quote && <p>{props.quote}</p>}
             </div>
             
-            <button onClick={props.getQuote}>Get Quote</button>
+            <button onClick={props.getQuote}>Get Blessed</button>
         </div>
     );
 };
